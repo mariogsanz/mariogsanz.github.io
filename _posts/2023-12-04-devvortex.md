@@ -5,6 +5,7 @@ date: 2023-12-04 13:09 +0100
 img_path: /assets/img/
 categories: [HackTheBox,Easy] 
 tags: [Joomla,Virtual Hosting,RCE]
+permalink: /devvortex/
 ---
 
 ![Devvortex](Devvortex%20120599f1e39f4440af1b0a954204bc5d/Devvortex.png)
