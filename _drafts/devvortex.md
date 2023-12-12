@@ -1,15 +1,17 @@
 ---
 layout: post
 title: Devvortex
-date: 2023-12-04 13:09 +0100
-img_path: /assets/img/
-categories: [HackTheBox,Easy] 
-tags: [Joomla,Virtual Hosting,RCE]
-permalink: /devvortex/
+img_path: "/assets/img/"
+categories:
+- HackTheBox
+- Easy
+tags:
+- Joomla
+- Virtual Hosting
+- RCE
+permalink: "/devvortex/"
+image: Devvortex%20120599f1e39f4440af1b0a954204bc5d/Devvortex1.png
 ---
-
-![Devvortex](Devvortex%20120599f1e39f4440af1b0a954204bc5d/Devvortex.png)
-
 Devvortex es una máquina Linux con la que practicaremos enumeración web y virtual hosting. Al utilizar Joomla, practicaremos cómo podemos obtener ejecución remota de comandos una vez que accedemos al panel de administración. También se hace uso de la vulnerabilidad CVE-2023-23752 para obtener información sensible, como usuarios y contraseñas.
 
 ## 🔍 **ENUMERACIÓN**
